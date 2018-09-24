@@ -1,4 +1,5 @@
 {
   "name": "project_1",
-  "displayName": "project_1"
+  "displayName": "project_1",
+  "root-navigation": "navigation.playground.Root"
 }
